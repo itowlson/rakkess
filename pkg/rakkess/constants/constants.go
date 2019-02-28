@@ -32,4 +32,8 @@ var (
 		"delete",
 		"proxy",
 	}
+	ValidDisplayModes = []string{
+		"default",
+		"ascii",
+	}
 )
